@@ -29,7 +29,7 @@ baseurl: ""  # Leave empty if hosted from the root of the custom domain
 
 github:
   username: cglesnerUMD # change to your GitHub username
-c
+
 twitter:
   username: twitter_username # change to your Twitter username
 
