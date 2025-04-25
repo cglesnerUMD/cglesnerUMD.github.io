@@ -24,8 +24,8 @@ description: >- # used by seo meta and the atom feed
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 
-url: "https://cglesnerumd.github.io"
-baseurl: ""
+url: "https://chrisglesner.com"  # Set to your custom domain
+baseurl: ""  # Leave empty if hosted from the root of the custom domain
 
 github:
   username: cglesnerUMD # change to your GitHub username
